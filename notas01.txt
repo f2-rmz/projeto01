@@ -1,1 +1,8 @@
 Esta é a primeira modificação feita neste arquivo de texto.
+
+git init
+git status
+git add [nome do arquivo]
+git add .
+git commit -m "mensagem vai aqui"
+git log
