@@ -7,3 +7,4 @@ git add .
 git commit -m "mensagem vai aqui"
 git log
 git push origin main
+git pull origin main
