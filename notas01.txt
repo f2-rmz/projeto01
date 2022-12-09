@@ -1,5 +1,7 @@
 Esta é a primeira modificação feita neste arquivo de texto.
 
+Lista de comandos Git
+
 git init
 git status
 git add [nome do arquivo]
@@ -8,3 +10,5 @@ git commit -m "mensagem vai aqui"
 git log
 git push origin main
 git pull origin main
+
+
